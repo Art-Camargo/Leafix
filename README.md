@@ -1,6 +1,6 @@
 # Sistema Automatizado de Fotomonitoramento de Plantas com ESP-CAM, Web Server e Google Drive
 
-Este documento descreve o desenvolvimento de um sistema automatizado de fotomonitoramento de plantas utilizando ESP32-CAM, servidor web e Google Drive. O trabalho foi apresentado no 11º Siepex, o Salão Integrado de Ensino, Pesquisa e Extensão da Uergs.
+Este documento descreve o desenvolvimento de um sistema automatizado de fotomonitoramento de plantas utilizando ESP32-CAM, servidor web e Google Drive. O trabalho foi encaminhado ao 11º Siepex, o Salão Integrado de Ensino, Pesquisa e Extensão da Uergs.
 
 ## Autores:
 * Artur de Camargo (Aluno voluntário, Curso de Engenharia de Computação, Uergs - Guaíba) 
